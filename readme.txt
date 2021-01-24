@@ -1,10 +1,11 @@
 make a final checkpoint before splitting the data
 
-instead of mean lkets do np.min
+instead of mean do np.min
 
-change to standard scaller
-get rid of those outliers
 create differences
-linear interpolation
 
-make sure that we keep everything in dataFrame
+get rid of those outliers
+
+change to standard scaler
+
+make sure that we keep everything in dataFrame!
